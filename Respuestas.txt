@@ -6,3 +6,6 @@ Poruqe cada rama es independiente por lo que los nuevos cambios que se realizen 
 
 Apartado i
 Se puede observar la rama en la que se esta trabajando y si estoy en la rama Option_2, se encontraran los archivos tp2 y el archivo .gitignore, mientras que en master solo se encuentran los archivos tp2_1_1.cpp, .gitignore y Respuestas.txt.
+
+Apartado j
+Al aplicar el comando merge la rama Option_2 se unio a la rama master pudiendo verse todos los archivos que estaban en Option_2.
