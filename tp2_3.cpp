@@ -47,6 +47,9 @@ int main(){
         printf("%d ", *(pares + i));
     }
 
+    free(mt);
+    free(pares);
+
     return 0;
 }
 
