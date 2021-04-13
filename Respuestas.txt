@@ -1,0 +1,8 @@
+Ejercicio 2
+Apartado g
+
+No se puede ver el archivo tp2_1_2.cpp.
+Poruqe cada rama es independiente por lo que los nuevos cambios que se realizen en cada una de ellas solo se pueden acceder ddesde la propia  rama.
+
+Apartado i
+Se puede observar la rama en la que se esta trabajando y si estoy en la rama Option_2, se encontraran los archivos tp2 y el archivo .gitignore, mientras que en master solo se encuentran los archivos tp2_1_1.cpp, .gitignore y Respuestas.txt.
