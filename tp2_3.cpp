@@ -42,7 +42,7 @@ int main(){
         *(pares + i) = contPar; 
     }
 
-    printf("El vector de la cantidad de pares por fila tiene es: \n");
+    printf("El vector de la cantidad de pares por fila es: \n");
     for(int i = 0; i < N; i++){
         printf("%d ", *(pares + i));
     }
